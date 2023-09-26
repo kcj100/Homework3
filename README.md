@@ -1,4 +1,9 @@
 # Head First Java, Chapter 10 Notes (Chapter 9 notes are in Graded-students-lab)
+PC lab is already here in Homework3
+
+Questions 16-20: https://github.com/kcj100/ArrayQuestions
+
+Phonebook: https://github.com/kcj100/PhoneBook
 ## Chapter 10
 - Math methods are as close as you'll ever get to a <em>global</em> method. 
 Methods in the Math class don't use any instance variable values. 
